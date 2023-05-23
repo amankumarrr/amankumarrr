@@ -17,3 +17,7 @@ I have experience working with Agile methodologies and implementing best practic
 
 ### Connect with Me 📞
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/aman-kumar-84842060/). I'm always open to connecting with fellow developers and discussing exciting projects or collaboration opportunities.
+
+<div align="center">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=amankumarrr&show_icons=true&cache_seconds=86400&theme=light)
+</div>

@@ -7,6 +7,7 @@ I'm a Software Developer based in Melbourne, Australia, with a strong background
 ### Skills and Experience 🚀
 Here are some of the programming languages, tools, and technologies that I am proficient in and have experience using:
 
+- NextJs 🦸‍♂️
 - Angular🔥
 - React 💻
 - .NET 💜

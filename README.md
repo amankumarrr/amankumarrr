@@ -2,17 +2,17 @@
 
 ### About Me 🙋‍♂️
 
-I'm a Software Developer based in Melbourne, Australia, with a strong background in full-stack development. I work at SSW as a Software Developer, where I build innovative and scalable solutions for clients.
+I'm a Software Engineer based in Melbourne, Australia, with a strong background in full-stack development. I work at SSW as a Software Developer, where I build innovative and scalable solutions for clients.
 
 ### Skills and Experience 🚀
 Here are some of the programming languages, tools, and technologies that I am proficient in and have experience using:
 
-- NextJs 🦸‍♂️
-- Angular🔥
-- React 💻
-- .NET 💜
-- Node 👨‍💻
-- Azure ☁️
+- 🦸‍♂️ NextJs 
+- 🔥 Angular
+- 💻 React 
+- 💜.NET 
+- 👨‍💻 Node 
+- ☁️ Azure ☁️
 
 I have experience working with Agile methodologies and implementing best practices in Software Engineering, including Code as Infrastructure 🧪, continuous integration 🚀, and continuous delivery 🚚.
 
